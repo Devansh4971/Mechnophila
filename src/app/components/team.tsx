@@ -5,8 +5,8 @@ export default function TeamMembers() {
     return (
         <div>
             <main>
-            <div>    
-                <section className="px-4 md:px-6 lg:px-8 ">
+                <div>               
+                 <section className="px-4 md:px-6 lg:px-8 ">
                     <section id="team" className="py-8 md:py-16 ">
                         <div className="container mx-auto px-4 md:px-6">
                             <h2 className="text-2xl md:text-3xl text-white mt-8 md:mt-16 font-bold mb-8 md:mb-12 text-center">Club Coordinators</h2>
