@@ -1,18 +1,15 @@
 "use client";
 import { useState } from "react";
-import { Moon, Sun, Menu, X } from "lucide-react";
-import Link from 'next/link';
+import {  Menu, X } from "lucide-react";
 import RedirectButton from './redirect';
 import Route2 from "./redirect-gallery";
 import Route3 from "./redirect-home";
 
 export default function Appbar() {
-    const [darkMode, setDarkMode] = useState(false);
+    
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
-    const toggleDarkMode = () => {
-        setDarkMode(!darkMode);
-    };
+    
 
     return (
 

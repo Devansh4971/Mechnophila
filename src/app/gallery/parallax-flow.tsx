@@ -1,11 +1,8 @@
 "use client";
 import { ParallaxScroll } from "@/components/ui/parallax-scroll";
 
-export function ParallaxScrollDemo() {
-    return <ParallaxScroll images={images} />;
-}
-
-const images = [
+// Type for the images array (array of strings)
+const images: string[] = [
     "/inauguration/1.jpg",
     "/inauguration/2.jpg",
     "/inauguration/3.jpg",
@@ -18,5 +15,8 @@ const images = [
     "/kyd/6.jpg",
     "/kyd/7.jpg",
     "/kyd/8.jpg",
-    
 ];
+
+export function ParallaxScrollDemo() {
+    return <ParallaxScroll images={images} />;
+}

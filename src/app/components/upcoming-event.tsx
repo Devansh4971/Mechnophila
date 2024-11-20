@@ -1,7 +1,7 @@
 "use client"
 
 
-import { Moon, Sun, Menu, X, Calendar, Trophy, Users, Bot, Clock, Newspaper, Award, Lightbulb, Linkedin, CarFront } from 'lucide-react'
+import { CarFront,Users, Bot } from 'lucide-react'
 
 export default function UpcomingSection() {
     return (

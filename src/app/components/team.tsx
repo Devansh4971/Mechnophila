@@ -1,6 +1,5 @@
 "use client "
 import Image from 'next/image';
-import { Moon, Sun, Menu, X, Calendar, Trophy, Users, Bot, Clock, Newspaper, Award, Lightbulb, Linkedin, CarFront, PartyPopper } from 'lucide-react'
 import Route1 from './redirect-linkedin';
 export default function TeamMembers() {
     return (

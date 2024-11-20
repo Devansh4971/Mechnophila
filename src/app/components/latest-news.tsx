@@ -1,5 +1,5 @@
 "use client"
-import { Moon, Sun, Menu, X, Calendar, Trophy, Users, Bot, Clock, Newspaper, Award, Lightbulb, Linkedin, CarFront } from 'lucide-react'
+import { Trophy, Award  } from 'lucide-react'
 export default function LatestNews() {
     return (
         <div className="sticky top-10 left-0 w-full z-20">
@@ -17,7 +17,7 @@ export default function LatestNews() {
                                     SAE
                                 </h3>
                                 <p className="text-gray-600 dark:text-gray-300 mb-4 text-lg font-medium opacity-80 hover:opacity-100 transition-opacity duration-200">
-                                    Team Vahak grabbed AIR 17 under the captaincy of club's G.S Abhrant Singh
+                                    Team Vahak grabbed AIR 17 under the captaincy of G.S Abhrant Singh
                                 </p>
                                 <p className="text-red-500 text-lg font-semibold">
                                     August, 2024

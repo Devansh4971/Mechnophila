@@ -15,7 +15,7 @@ const Route3 = ({ url, label }: Route3Props) => {
 
 
     return (
-        <a className="hover:text-blue-500 text-3xl  font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-700  " onClick={(e) => {
+        <a className="hover:text-blue-500 text-3xl  font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-700  " onClick={() => {
 
             handleRedirectHome()
         }}>

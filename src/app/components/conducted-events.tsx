@@ -1,7 +1,7 @@
 "use client"
 import Image from 'next/image';
 
-import {  Clock,  PartyPopper } from 'lucide-react'
+import {   PartyPopper } from 'lucide-react'
 import RedirectButtonEvent from './redirect-event';
 export default function ConductedEvents() {
     return (

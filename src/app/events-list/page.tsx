@@ -58,7 +58,7 @@ export default function eventsAll(){
 
                             <div className="w-full lg:w-1/2 p-6">
                                 <p className="text-lg  font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-700  ">
-                                    Mechnophilia club led students through an interactive exploration of the Mechanical Engineering Department's key facilities. Through guided visits to manufacturing, CAD/CAM, thermal, and materials testing labs, participants gained first-hand insight into our department's technical capabilities and research infrastructure. Faculty demonstrations and hands-on sessions helped students connect classroom concepts with practical engineering applications.
+                                    Mechnophilia club led students through an interactive exploration of the Mechanical Engineering Department key facilities. Through guided visits to manufacturing, CAD/CAM, thermal, and materials testing labs, participants gained first-hand insight into  technical capabilities and research infrastructure of the department. Faculty demonstrations and hands-on sessions helped students connect classroom concepts with practical engineering applications.
                                 </p>
                             </div>
                         </div>

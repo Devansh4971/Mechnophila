@@ -15,7 +15,7 @@ const Route2 = ({ url , label}: Route2Props) => {
 
 
     return (
-        <a href="team" className="hover:text-blue-500 text-lg  font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-700  " onClick={(e) => {
+        <a href="team" className="hover:text-blue-500 text-lg  font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-700  " onClick={() => {
              
             handleRedirectGallery();
         }}>

@@ -4,7 +4,7 @@
 import Appbar from './components/appbar';
 import Section1 from './components/section';
 
-import { Spotlight } from './components/ui/spotlight';
+
 import UpcomingSection from './components/upcoming-event';
 import ConductedEvents from './components/conducted-events';
 import LatestNews from './components/latest-news';
