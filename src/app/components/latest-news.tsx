@@ -20,7 +20,7 @@ export default function LatestNews() {
                                     Team Vahak grabbed AIR 17 under the captaincy of G.S Abhrant Singh
                                 </p>
                                 <p className="text-red-500 text-lg font-semibold">
-                                    August, 2024
+                                    August,2024
                                 </p>
                             </div>
                             <div className="bg-white dark:bg-gray-800 p-6 rounded-2xl shadow-xl text-center transition-transform transform hover:scale-105 duration-300 ease-in-out">
@@ -34,7 +34,7 @@ export default function LatestNews() {
                                     Students won a total prize pool of Rs 60,000 in the CII-Majestic Competition
                                 </p>
                                 <p className="text-yellow-500 text-lg font-semibold">
-                                    September 15, 2023
+                                    September,2023
                                 </p>
                             </div>
 

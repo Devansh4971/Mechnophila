@@ -34,7 +34,7 @@ export default function teamMembers(){
                             <div className="bg-white p-6 rounded-lg shadow-xl text-center text-black transform transition-transform duration-300 hover:scale-105">
                                 <div className="relative w-32 h-32 mx-auto mb-6">
                                     <Image
-                                        src="/profile-pics/sir-3.jpg"
+                                        src="/profile-pics/an-fin.jpg"
                                         alt="Ankur Dixit"
                                         layout="fill"
                                         objectFit="cover"
@@ -313,7 +313,7 @@ export default function teamMembers(){
                                 </div>
                                 <h3 className="text-2xl font-semibold mb-2">Arpit Chaturvedi</h3>
                                 <p className="text-gray-600 mb-4">Co-Lead</p>
-                                <p className="text-lg mb-4">Mechanical Engineering, Class of 2026</p>
+                                <p className="text-lg mb-4">Mechanical Engineering, Class of 2027</p>
                                 <Route1 url="https://www.linkedin.com/in/arpit-chaturvedi-886111275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "></Route1>
                             </div>
                         </div>

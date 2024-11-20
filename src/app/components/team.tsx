@@ -33,7 +33,7 @@ export default function TeamMembers() {
                                 <div className="bg-white p-6 rounded-lg shadow-xl text-center text-black transform transition-transform duration-300 hover:scale-105">
                                     <div className="relative w-32 h-32 mx-auto mb-6">
                                         <Image
-                                            src="/profile-pics/sir-3.jpg"
+                                            src="/profile-pics/an-fin.jpg"
                                             alt="Ankur Dixit"
                                             layout="fill"
                                             objectFit="cover"

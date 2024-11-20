@@ -23,7 +23,7 @@ export default function ConductedEvents() {
                                     className="w-full h-48 object-cover rounded-md mb-4 border-4 border-transparent hover:border-yellow-500 transition-all duration-300"
                                 />
                                 <h3 className="text-2xl font-semibold text-gray-900 dark:text-white mb-2 transition-colors duration-300 hover:text-yellow-500">
-                                    Innauguration
+                                    Inauguration
                                 </h3>
                                 <p className="text-gray-600 dark:text-gray-300 mb-2 text-lg">
                                     Grand inauguration of Mechnophila, the technical club of the Mechanical Engineering Department at ABES Engineering College.
