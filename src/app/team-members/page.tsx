@@ -208,7 +208,7 @@ export default function teamMembers(){
                                 <h3 className="text-2xl font-semibold mb-2">Suyash Mishra</h3>
                                 <p className="text-gray-600 mb-4">Tech-CoLead</p>
                                 <p className="text-lg mb-4">Mechanical Engineering,Class of 2026</p>
-                                <Route1 url="www.linkedin.com/in/suyash-mishra-/"></Route1>
+                                <Route1 url="https://www.linkedin.com/in/suyash-mishra-277257258/"></Route1>
                             </div>
                             <div className="bg-white p-6 rounded-lg shadow-xl text-center text-black transform transition-transform duration-300 hover:scale-105">
                                 <div className="relative w-32 h-32 mx-auto mb-6">

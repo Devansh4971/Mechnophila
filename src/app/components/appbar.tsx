@@ -28,8 +28,8 @@ export default function Appbar() {
                         <RedirectButton />
                     </div>
                     <div className="md:hidden">
-                        <button onClick={() => setMobileMenuOpen(!mobileMenuOpen)} className="p-2 rounded-md hover:bg-gray-200 dark:hover:bg-gray-700">
-                            {mobileMenuOpen ? <X className="h-6 w-6"></X> : <Menu className="h-6 w-6"></Menu>}
+                        <button onClick={() => setMobileMenuOpen(!mobileMenuOpen)} className="p-2 rounded-md hover:bg-gray-800 dark:hover:bg-gray-200">
+                            {mobileMenuOpen ? <X className="h-6 w-6 "></X> : <Menu className="h-6 bg-gray-400 w-6"></Menu>}
                         </button>
                     </div>
                     {
