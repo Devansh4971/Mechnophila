@@ -34,7 +34,7 @@ export default function LatestNews() {
                                     Students won a total prize pool of Rs 60,000 in the CII-Majestic Competition
                                 </p>
                                 <p className="text-yellow-500 text-lg font-semibold">
-                                    September,2023
+                                    September,2024
                                 </p>
                             </div>
 
